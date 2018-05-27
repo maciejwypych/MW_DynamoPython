@@ -117,4 +117,4 @@ if errorReport == None:
     
 	OUT = leaders
 else:
-	OUT = errorReport,lead
+	OUT = errorReport
